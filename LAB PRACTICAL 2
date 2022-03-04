@@ -1,0 +1,21 @@
+/* coder: Deepanshu
+pupose: lab program c
+date: 28 jan 2022 */
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+    int i,rem,p=1,num=0;
+    printf("Enter the decimal number: \n");
+    scanf("%d",&i);
+
+       while(i>0)
+       {
+          rem= i%2;
+          i= i/2;
+          num+=(rem*p);
+          p*=10;
+       }
+    printf("The number in binary is %d",num);
+}
