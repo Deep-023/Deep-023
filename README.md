@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deep-023
 - 👀 I’m interested in web development , problem solving etc.
 - 🌱 I’m a MERN stack Developer
-- 💞️ Solved over 800 questions on leetcode, gfg & code studio collectively
+- 💞️ Solved over 1300 questions on leetcode, cses, gfg & code studio collectively
 - 📫 How to reach me deepanshuaggarwal023@gmail.com
 
 <!---
